@@ -1,0 +1,13 @@
+node_modules/
+client/dist/
+server/data/*.db
+server/data/*.db-journal
+server/data/*.db-wal
+server/data/*.db-shm
+docs/images/demo.gif
+docs/images/*.tmp
+*.log
+.DS_Store
+Thumbs.db
+.env
+.playwright/
